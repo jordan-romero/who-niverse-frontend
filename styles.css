@@ -1,0 +1,42 @@
+body {
+    background-color: #003c7d;
+    color: whitesmoke; 
+}
+
+.card-img-top {
+    border-radius: 8px; 
+    border: 2px solid aquamarine;
+    height: 30rem; 
+    width: 20rem; 
+    float: right; 
+}
+
+.card-title {
+    color: skyblue; 
+}
+
+#driver_img {
+    border-radius: 10px;
+    border: 2px solid steelblue;
+    height: 15rem;
+    width: auto; 
+}
+
+#doc_btn {
+    background: slategray;
+    color: #ffffff;
+}
+
+.card {
+    width: 50rem; 
+    height: auto; 
+    background:  #003c7d; 
+    border: 2px solid whitesmoke; 
+    margin-bottom: 3rem; 
+    display: block;
+}
+
+.card-img-bottom {
+    width: auto; 
+    height: auto;
+}
